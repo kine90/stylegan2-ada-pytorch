@@ -1,4 +1,4 @@
-**Work in progress - adding spout sharedtexture output, controlling generation with UDP.
+**Work in progress - Adding spout sharedtexture output to generate.py. Adding UDP controls for seeds and interpolation.
 Thanks to daviesjamie/spout**<br>
 
 
