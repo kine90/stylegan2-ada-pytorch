@@ -1,5 +1,4 @@
-**Work in progress - Adding spout sharedtexture output to generate.py. Adding UDP controls for seeds and interpolation.
-Thanks to daviesjamie/spout**<br>
+**Work in progress - Adding spout sharedtexture output to generate.py. Adding UDP controls for seeds and interpolation.**<br>
 
 
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
