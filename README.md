@@ -1,3 +1,6 @@
+**Work in progress - adding spout sharedtexture output, controlling generation with UDP**<br>
+
+
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
 
 ![Teaser image](./docs/stylegan2-ada-teaser-1024x252.png)
